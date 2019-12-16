@@ -17,7 +17,7 @@ public class Prueba {
     public static void main(String[] args) {
         System.out.println("delta");
         System.out.println("fallout");
-        System.out.println("faltante");
+        System.out.println("vaso");
     }
     
     public void mensaje() {
