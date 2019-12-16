@@ -16,7 +16,7 @@ public class Prueba {
      */
     public static void main(String[] args) {
         System.out.println("delta");
-        
+        System.out.println("delta faltante, es necesaria una inicializacion de medios.");
     }
     
 }
