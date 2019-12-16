@@ -21,7 +21,7 @@ public class Prueba {
     }
     
     public void mensaje() {
-        System.out.println("new message");
+        System.out.println("new message a");
     }
     
 }
