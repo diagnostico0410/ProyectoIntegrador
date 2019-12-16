@@ -15,7 +15,7 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("delta");
+        System.out.println("delta uno");
         System.out.println("fallout");
         System.out.println("faltante");
     }
