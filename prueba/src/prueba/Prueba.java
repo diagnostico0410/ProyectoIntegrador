@@ -20,4 +20,8 @@ public class Prueba {
         System.out.println("faltante");
     }
     
+    public void mensaje() {
+        System.out.println("new message");
+    }
+    
 }
